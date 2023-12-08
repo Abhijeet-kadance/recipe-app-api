@@ -2,12 +2,8 @@
 ./app/tests.py:3:1: W293 blank line contains whitespace
 ./app/tests.py:11:1: E302 expected 2 blank lines, found 1
 ./app/tests.py:13:1: W293 blank line contains whitespace
-./app/tests.py:15:25: E203 whitespace before ','
 ./app/tests.py:16:1: W293 blank line contains whitespace
-./app/tests.py:17:29: E203 whitespace before ','
 ./app/tests.py:18:1: W293 blank line contains whitespace
-./app/tests.py:20:31: E203 whitespace before ','
 ./app/tests.py:21:1: W293 blank line contains whitespace
-./app/tests.py:22:29: E203 whitespace before ','
 ./app/tests.py:23:1: W293 blank line contains whitespace
 ./app/tests.py:23:9: W292 no newline at end of file
