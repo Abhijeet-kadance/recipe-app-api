@@ -1,16 +1,13 @@
-./app/calc.py:6:10: E231 missing whitespace after ','
-./app/calc.py:10:1: E302 expected 2 blank lines, found 1
-./app/calc.py:10:15: E231 missing whitespace after ','
-./app/calc.py:11:17: W292 no newline at end of file
 ./app/tests.py:2:12: W291 trailing whitespace
-./app/tests.py:10:1: E302 expected 2 blank lines, found 1
-./app/tests.py:12:1: W293 blank line contains whitespace
-./app/tests.py:14:25: E231 missing whitespace after ','
-./app/tests.py:15:1: W293 blank line contains whitespace
-./app/tests.py:16:29: E231 missing whitespace after ','
-./app/tests.py:17:1: W293 blank line contains whitespace
-./app/tests.py:19:31: E231 missing whitespace after ','
-./app/tests.py:20:1: W293 blank line contains whitespace
-./app/tests.py:21:29: E231 missing whitespace after ','
-./app/tests.py:22:1: W293 blank line contains whitespace
-./app/tests.py:22:9: W292 no newline at end of file
+./app/tests.py:3:1: W293 blank line contains whitespace
+./app/tests.py:11:1: E302 expected 2 blank lines, found 1
+./app/tests.py:13:1: W293 blank line contains whitespace
+./app/tests.py:15:25: E203 whitespace before ','
+./app/tests.py:16:1: W293 blank line contains whitespace
+./app/tests.py:17:29: E203 whitespace before ','
+./app/tests.py:18:1: W293 blank line contains whitespace
+./app/tests.py:20:31: E203 whitespace before ','
+./app/tests.py:21:1: W293 blank line contains whitespace
+./app/tests.py:22:29: E203 whitespace before ','
+./app/tests.py:23:1: W293 blank line contains whitespace
+./app/tests.py:23:9: W292 no newline at end of file
