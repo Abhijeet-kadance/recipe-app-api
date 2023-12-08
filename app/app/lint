@@ -1,9 +1,0 @@
-./app/tests.py:2:12: W291 trailing whitespace
-./app/tests.py:3:1: W293 blank line contains whitespace
-./app/tests.py:11:1: E302 expected 2 blank lines, found 1
-./app/tests.py:13:1: W293 blank line contains whitespace
-./app/tests.py:16:1: W293 blank line contains whitespace
-./app/tests.py:18:1: W293 blank line contains whitespace
-./app/tests.py:21:1: W293 blank line contains whitespace
-./app/tests.py:23:1: W293 blank line contains whitespace
-./app/tests.py:23:9: W292 no newline at end of file
